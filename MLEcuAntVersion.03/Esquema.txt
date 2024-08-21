@@ -1,0 +1,39 @@
+EcuaAnt2K24A/
+│
+├── design/
+│   ├── CasoDeUsoDiagram.png   (Diagrama de caso de uso)
+│   ├── ClasesDiagram.png      (Diagrama de clases)
+│   └── ArquitecturaDiagram.png (Diagrama de arquitectura)
+├── lib
+│
+├── MMData/
+│   └── MMHormiguero.csv     (Archivo CSV para almacenar datos del hormiguero)
+│
+└── src/
+    ├── MMBusinessLogic/
+    ├── MMAlimento.java
+    ├── MMCarnivoro.java
+    ├── MMGenoAlimento.java
+    ├── MMHervivoro.java
+    ├── MMHormiga.java
+    ├── MMIngestaNativa.java
+    ├── MMInsectivoro.java
+    ├── MMOmnivoro.java
+    ├── MMX.java
+    ├── MMXX.java
+    ├── MMXY.java
+    │  
+    ├── MMDataAccess/
+    ├── MMDAO.java
+    ├── MMDTO.java
+    │
+    ├── MMFramework/
+    ├── MMConfiguration.java
+    ├── MMExeption.java
+    │  
+    ├── MMGUI/
+    │   ├── MMiconAnt.png 
+    │   ├── MMimageFrasco.png
+    │   └── MMUIComponent.java   
+    │
+    └── App.java/
