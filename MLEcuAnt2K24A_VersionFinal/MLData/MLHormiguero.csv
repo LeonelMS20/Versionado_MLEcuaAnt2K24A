@@ -1,0 +1,12 @@
+Registro Nro,Tipo Hormiga,Ubicación,Sexo,Ingesta Nativa,GenoAlimento,Estado
+1,Larva,Guayas,Asexual,Carnívoro,X,VIVA
+2,Zangano,Pichincha,Asexual,Herbívoro,XX,VIVA
+3,Reina,Azúay,Femenino,Omnívoro,XY,VIVA
+4,Obrera,Manabí,Femenino,Nectívoro,X,VIVA
+5,Soldado,El Oro,Femenino,Carnívoro,XX,VIVA
+6,Larva,Loja,Asexual,Omnívoro,XY,VIVA
+7,Zangano,Imbabura,Asexual,Herbívoro,X,VIVA
+8,Reina,Esmeraldas,Femenino,Omnívoro,XX,VIVA
+9,Obrera,Cotopaxi,Femenino,Carnívoro,XY,VIVA
+10,Soldado,Sucumbíos,Femenino,Omnívoro,X,VIVA
+
